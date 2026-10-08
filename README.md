@@ -27,3 +27,9 @@ the outputs of the API (the movement controls of the robotic arm) are what is go
 <p>Raspberry Pi zero 2 w converts the commands into physical movement on the robotic arm</p>
 
 _repeat until Raspberry Pi 2 w shuts down
+
+## How to start the project
+
+1. git clone https://github.com/Cityx258/CVAPI
+2. cd CVAPI
+3. uv run fastapi
