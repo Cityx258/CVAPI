@@ -32,4 +32,4 @@ _repeat until Raspberry Pi 2 w shuts down
 
 1. git clone https://github.com/Cityx258/CVAPI
 2. cd CVAPI
-3. uv run fastapi
+3. uv run fastapi dev
